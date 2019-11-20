@@ -1,0 +1,10 @@
+.DS_Store
+*~
+*.iws
+*.sublime-workspace
+node_modules
+
+/dist
+/js
+/tmp
+/.idea
